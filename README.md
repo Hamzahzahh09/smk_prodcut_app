@@ -115,7 +115,7 @@ Lalu tampilkan di README seperti ini:
 ## 👨‍💻 Developer
 
 Dibuat untuk keperluan pembelajaran Flutter.  
-SMK Product App © 2026
+Hamzah Ahmad © 2026
 
 ---
 
